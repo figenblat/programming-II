@@ -1,0 +1,5 @@
+loadData() for SimpleBag: 1loadData() for CleverBag: 1
+1 for removeRandom() in SimpleBag: -1 and for removeRandom() in CleverBag: 0
+100 for removeRandom() in SimpleBag: -14 and for removeRandom() in CleverBag: -1
+1000 for removeRandom() in SimpleBag: -23 and for removeRandom() in CleverBag: -1
+10000 for removeRandom() in SimpleBag: -170 and for removeRandom() in CleverBag: -1
